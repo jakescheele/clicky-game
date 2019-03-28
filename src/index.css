@@ -6,9 +6,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url("./background.jpg")
+  background-image: url("./background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 
 }
+
+/* .jumbotron {
+  background-image: url("./bamboo-background.jpg");
+  background-repeat: no-repeat;
+  background-size: contain, cover;
+} */
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",

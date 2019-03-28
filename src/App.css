@@ -1,6 +1,29 @@
-.card-img {
+.container {
+  justify-content: center;
+}
+
+
+.grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-  max-width: 300px;
-  max-height: 300px;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  grid-gap: 15px;
+  align-items: stretch;
 };
+.grid img {
+  /* border: 1px solid #ccc; */
+  /* box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3); */
+  max-width: 150px;
+};
+  @media only screen and (max-width: 650px) {
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+      grid-gap: 15px;
+      align-items: stretch;
+    };
+    .grid img {
+    max-width: 100px;
+    };
+  };
+
+

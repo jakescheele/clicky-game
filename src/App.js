@@ -10,9 +10,9 @@ class App extends React.Component {
   state = {
     score: 0,
     cards: experiments
-    
+
   }
-  
+
 
   shuffle = (array) => {
     array.sort(() => Math.random() - 0.5);
@@ -55,7 +55,7 @@ class App extends React.Component {
       score: 0,
       cards: newArray
     })
-    if (gameResults) 
+    if (gameResults)
       alert("You win!")
     else
       alert("You lose! Try again!")
@@ -64,22 +64,24 @@ class App extends React.Component {
   render() {
     return (
       <>
-        <Header 
+        <div className="container">
+        <Header
           score={this.state.score}
         />
         <Jumbotron />
-        <div>
-          {this.state.cards.map(card => {
-            return (
-            <Card 
-              key={card.id}
-              id={card.id}
-              src={card.src}
-              clicked={card.clicked}
-              clickHandler={this.clickHandler}
-            />
-            )
-          })}
+          <div className="grid">
+            {this.state.cards.map(card => {
+              return (
+                <Card
+                  key={card.id}
+                  id={card.id}
+                  src={card.src}
+                  clicked={card.clicked}
+                  clickHandler={this.clickHandler}
+                />
+              )
+            })}
+          </div>
         </div>
       </>
     );
