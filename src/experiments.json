@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "src": "./images/experiments/stitch.png",
+        "src": "/images/experiments/stitch.png",
         "clicked": false
     },
     {

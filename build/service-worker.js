@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/lilo-stitch-memory-click-game/precache-manifest.c8cdddd2e3dad58fa532e631c0b074ba.js"
+  "/lilo-stitch-memory-click-game/precache-manifest.b145a6f96303068b9d585f035bd330fb.js"
 );
 
 workbox.clientsClaim();
