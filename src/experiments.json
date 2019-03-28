@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "src": "/images/experiments/stitch.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "src": "/images/experiments/finder.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "src": "/images/experiments/hammerface.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "src": "/images/experiments/plasmoid.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "src": "/images/experiments/rueben.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "src": "/images/experiments/sparky.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "src": "/images/experiments/yang.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "src": "/images/experiments/heat.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "src": "/images/experiments/angel.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "src": "/images/experiments/richter.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "src": "/images/experiments/sample.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "src": "/images/experiments/spike.png",
+        "clicked": false
+    },
+    {
+        "id": 13,
+        "src": "/images/experiments/clip.png",
+        "clicked": false
+    },
+    {
+        "id": 14,
+        "src": "/images/experiments/cannonball.png",
+        "clicked": false
+    },
+    {
+        "id": 15,
+        "src": "/images/experiments/kixx.png",
+        "clicked": false
+    },
+    {
+        "id": 16,
+        "src": "/images/experiments/houdini.png",
+        "clicked": false
+    }
+]
