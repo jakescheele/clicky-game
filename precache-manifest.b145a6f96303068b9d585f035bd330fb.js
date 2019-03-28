@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/lilo-stitch-memory-click-game/static/js/runtime~main.b8dab5d9.js"
   },
   {
-    "revision": "d487a7a35366e84b94dc",
-    "url": "/lilo-stitch-memory-click-game/static/js/main.25f7ed1d.chunk.js"
+    "revision": "2d909e815df9325ae510",
+    "url": "/lilo-stitch-memory-click-game/static/js/main.b51d7537.chunk.js"
   },
   {
     "revision": "19d95efcc4ebcd21d2b5",
     "url": "/lilo-stitch-memory-click-game/static/js/2.fd9fc717.chunk.js"
   },
   {
-    "revision": "d487a7a35366e84b94dc",
+    "revision": "2d909e815df9325ae510",
     "url": "/lilo-stitch-memory-click-game/static/css/main.0f82e4cc.chunk.css"
   },
   {
-    "revision": "cd69aa3f23e1632452b16fbbc42afae5",
+    "revision": "c094a734ab1b26c177a69fa01f9fee93",
     "url": "/lilo-stitch-memory-click-game/index.html"
   }
 ];
