@@ -2,6 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jakescheele.github.io/lilo-stitch-memory-click-game/",
   "dependencies": {
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
