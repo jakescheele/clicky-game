@@ -3,7 +3,7 @@ import Header from "./components/header";
 import Jumbotron from "./components/jumbotron";
 import Card from "./components/card";
 // import Characters from "chacters.json"
-import experiments from "./experiments.json";
+import experiments from "../public/experiments.json";
 import "./App.css";
 
 class App extends React.Component {
